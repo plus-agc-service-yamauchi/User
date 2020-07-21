@@ -24,6 +24,7 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phplint",
 		"SyncedSideBar",
+		"Terminal",
 		"Theme - Monokai Pro"
 	]
 }
