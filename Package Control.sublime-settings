@@ -25,6 +25,7 @@
 		"SublimeLinter-phplint",
 		"SyncedSideBar",
 		"Terminal",
-		"Theme - Monokai Pro"
+		"Theme - Monokai Pro",
+		"WordCount"
 	]
 }
