@@ -359,7 +359,7 @@
     "color": [193, 192, 192],
     "font.bold": false,
     "font.face": "ubuntu mono derivative powerline",
-    "font.size": 16
+    "font.size": 14
 },
 {
     "class": "sidebar_label",
