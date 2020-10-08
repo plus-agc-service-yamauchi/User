@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -16,6 +15,7 @@
 		"DocBlockr",
 		"Emmet",
 		"GitGutter",
+		"Goto-CSS-Declaration",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"SCSS",
