@@ -9,6 +9,8 @@
 		"All Autocomplete",
 		"Auto Close HTML Tags",
 		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"Bootstrap 4x Autocomplete",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ConvertToUTF8",
@@ -30,6 +32,11 @@
 		"SyncedSideBar",
 		"Terminal",
 		"Theme - Monokai Pro",
+		"Vue Syntax Highlight",
 		"WordCount"
+	],
+	"repositories":
+	[
+		"https://github.com/vuejs/vue-syntax-highlight.git"
 	]
 }
